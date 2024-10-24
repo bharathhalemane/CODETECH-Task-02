@@ -8,25 +8,19 @@ Domain: Front-End Development
 
 Duration: October 5th to November 5th, 2024 
 
-Mentor:Neela Santhosh Kumar
+Mentor: Neela Santhosh Kumar
 
+**Calculator Web App**
+This project is a simple, responsive web-based calculator built with HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division, with a clean and intuitive user interface.
 
-Overview of the Project:
+**Features**
+Basic arithmetic operations: addition, subtraction, multiplication, and division
+Clear and backspace functionality for easy correction of input
+Responsive design that adapts to different screen sizes
+Real-time visual updates of the current input and result
 
-Project:PERSONAL PORTFOLIO WEBSITE 
+**Technologies Used**
+HTML5: Structure and layout of the calculator
+CSS3: Styling and responsive design
+JavaScript: Handling all the calculator logic and operations
 
-Objective:
-
-The objective of a portfolio project is to showcase skills, experience, and accomplishments in a tangible and organized manner. It serves as a personal brand statement and demonstrates proficiency in the field to potential employers, clients, or collaborators. A well-structured portfolio highlights my best work, provides insights into my abilities, and reflects my professional growth and versatility.
-
-Technologies used:
-
-HTML (HyperText Markup Language): The backbone of any web page, used to structure the content of your portfolio website.
-
-CSS (Cascading Style Sheets): Used for styling and layout of the portfolio site, including fonts, colors, spacing, and overall design.
-
-Frameworks/Libraries:
-
-Bootstrap: A popular CSS framework for responsive design and pre-built UI components.
-
-Tailwind CSS: A utility-first CSS framework that enables developers to rapidly design custom interfaces.
